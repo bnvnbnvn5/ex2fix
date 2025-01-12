@@ -57,6 +57,11 @@ Bộ kiểm thử đạt được độ bao phủ câu lệnh 100% sử dụng J
 - Phát triển các ca kiểm thử toàn diện
 - Phân tích độ bao phủ sử dụng JaCoCo
 - Bổ sung ca kiểm thử để đạt độ bao phủ 100%
+# Công nghệ sử dụng
+- Java
+- JUnit 5
+- Maven
+- JaCoCo để đo độ bao phủ mã nguồn
 
 
 
